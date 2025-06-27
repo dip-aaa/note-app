@@ -81,13 +81,6 @@ A full-stack todo list application with authentication using React and Supabase.
    ```
    The server will run on http://localhost:5000
 
-## Supabase Configuration
-
-The application is already configured with your Supabase credentials:
-- **Project URL**: https://npdypxotrbyflwkbftbf.supabase.co
-- **Anon Key**: Configured in client
-- **Service Key**: Configured in server
-
 ## Usage
 
 1. **Sign Up**: Create a new account with email and password
