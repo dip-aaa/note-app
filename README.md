@@ -90,13 +90,7 @@ A full-stack todo list application with authentication using React and Supabase.
 5. **Password Reset**: Use "Forgot Password" to reset your password
 6. **Sign Out**: Logout from the application
 
-## API Endpoints
 
-- `GET /` - Server status
-- `GET /health` - Health check
-- `GET /api/profile` - Get user profile (protected)
-- `PUT /api/profile` - Update user profile (protected)
-- `GET /api/users` - Get all users (admin only)
 
 ## Security Features
 
